@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sounddevice
+numpy
+google-cloud-speech
+websockets
+wsproto
